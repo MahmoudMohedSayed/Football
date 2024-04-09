@@ -1,0 +1,3 @@
+﻿  Football.cpp
+C:\Users\user\Desktop\sercodev\round 1\Programming level1\lec 5\Tasks\Football\Football\Football.cpp(16,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Football.vcxproj -> C:\Users\user\Desktop\sercodev\round 1\Programming level1\lec 5\Tasks\Football\x64\Debug\Football.exe
